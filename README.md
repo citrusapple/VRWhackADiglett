@@ -8,8 +8,8 @@ This game was developed with C# scripts with the Unity Engine.  All 3D model ass
 
 Here is a render of the game enviornment.
 
-!["arcade room render"](images/arcade_render_png.png)
+![](images/arcade_render_png.png)
 
 Here is a screenshot of gameplay.
 
-!["whacking digletts in VR"](images/gameplay.jpg)
+![](images/gameplay.jpg)

@@ -8,8 +8,8 @@ This game was developed with C# scripts with the Unity Engine.  All 3D model ass
 
 Here is a render of the game enviornment.
 
-![](images/arcade_render_png.png)
+!["arcade enviornment"](https://github.com/citrusapple/VRWhackADiglett/blob/master/Images/arcade_render_png.png)
 
 Here is a screenshot of gameplay.
 
-![](images/gameplay.jpg)
+!["whacking digletts in VR"](https://github.com/citrusapple/VRWhackADiglett/blob/master/Images/gameplay.jpg)

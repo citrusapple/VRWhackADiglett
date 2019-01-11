@@ -4,7 +4,7 @@
 This is my first attempt on creating a virtual reality game.  Downloading the .apk file on an android device and use Google Cardboard to 
 whack some digletts on their heads with a pokeball.
 
-All 3D model assets are original work created on Blender. This game was developed with C# scripts with the Unity Engine following a tutorial on an <a href= "https://www.udemy.com/build-30-mini-virtual-reality-games-in-unity-3d-from-scratch/">Udemy course</a> with some deviation.
+All 3D model assets are original work created on Blender. This game was developed with C# scripts with the Unity Engine following a tutorial on an <a href= "https://www.udemy.com/build-30-mini-virtual-reality-games-in-unity-3d-from-scratch/" target ="_blank">Udemy course</a> with some deviation.
 
 Here is a render of the game enviornment.
 

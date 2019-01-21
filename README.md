@@ -6,6 +6,9 @@ whack some digletts on their heads with a pokeball.
 
 All 3D model assets are original work created on Blender. This game was developed with C# scripts with the Unity Engine following a tutorial on an <a href= "https://www.udemy.com/build-30-mini-virtual-reality-games-in-unity-3d-from-scratch/" target ="_blank">Udemy course</a> with some deviation.
 
+Click below for a video demo of the game:
+<a href="https://www.youtube.com/watch?v=PWcHtdIZpG0"> !["video thumbnail"](https://github.com/citrusapple/VRWhackADiglett/blob/master/diglettthumbnail.PNG)</a>
+
 Here is a render of the game enviornment.
 
 !["arcade enviornment"](https://github.com/citrusapple/VRWhackADiglett/blob/master/Images/arcade_render_png.png)
